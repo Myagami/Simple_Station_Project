@@ -1,5 +1,5 @@
 Obj=building
-Name=Corner_Station_Type1(TTR)
+Name=Simple_Station_Sample
 Type=extension
 Waytype=track
 enables_pax=1
