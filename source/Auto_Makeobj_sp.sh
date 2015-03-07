@@ -1,7 +1,7 @@
 #!/bin/sh
-PAK=$1
-DAT=$2
-PNG=$3
+#PAK=$1
+DAT=$1
+PNG=$2
 ## png / datをモニターする
 inotifywait -m -e modify,create,delete --format %w%f $PNG $DAT|
 #inotifywait -m -e modify,create,delete --format %w%f $DAT|
