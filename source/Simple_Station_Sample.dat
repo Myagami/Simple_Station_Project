@@ -1,0 +1,16 @@
+Obj=building
+Name=Corner_Station_Type1(TTR)
+Type=extension
+Waytype=track
+enables_pax=1
+Level=5
+NoInfo=1
+Dims=1,1,4
+enables_pax=1
+BackImage[0][0][0][0][0][0]=Corner_Station.0.0
+BackImage[1][0][0][0][0][0]=Corner_Station.0.1
+BackImage[2][0][0][0][0][0]=Corner_Station.0.2
+BackImage[3][0][0][0][0][0]=Corner_Station.0.3
+#icon=> Corner_Station.0.4
+copyright=M.Yagami
+--------------------------------
