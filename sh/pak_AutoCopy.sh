@@ -4,11 +4,11 @@
 #inotifywait -m -e close_nowrite,create,delete --format %w%f "./" |
 inotifywait -m -e modify,create,delete --format %w%f "./"
 while read files;do
-    cp * ~/simutrans/addons/pak.nippon.test/
-    
-    echo "--------------------------------"
-    date +"%y/%m/%d %T";
-    echo "--------------------------------"
+    #cp * ~/simutrans/addons/pak.nippon.test/
+    pak_cp "*.pak"
+    #echo "--------------------------------"
+    #date +"%y/%m/%d %T";
+    #echo "--------------------------------"
 done
 
 pak_cp(){
