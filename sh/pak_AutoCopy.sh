@@ -5,7 +5,7 @@
 inotifywait -m -e modify,create,delete --format %w%f "./" |
 while read files;do
     #cp * ~/simutrans/addons/pak.nippon.test/
-    #echo "--------------------------------"
-    #date +"%y/%m/%d %T";
-    #echo "--------------------------------"
+    echo "--------------------------------"
+    date +"%y/%m/%d %T";
+    echo "--------------------------------"
 done
