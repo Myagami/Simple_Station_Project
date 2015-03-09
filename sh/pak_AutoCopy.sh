@@ -12,5 +12,11 @@ while read files;do
 done
 
 pak_cp(){
-    
+    local num=$#
+    local arg=$*
+
+    for i in $arg
+    do
+	
+    done
 }
