@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/zsh
 #PAK=$1
 ## png / datをモニターする
 #inotifywait -m -e close_nowrite,create,delete --format %w%f "./" |
