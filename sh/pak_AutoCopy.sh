@@ -17,6 +17,6 @@ pak_cp(){
 
     for i in $arg
     do
-	
+	echo $arg
     done
 }
