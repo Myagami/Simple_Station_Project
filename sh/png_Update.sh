@@ -3,5 +3,10 @@
 inotifywait -m -e modify,create,delete --format %w%f "./"|
 #inotifywait -m -e modify,create,delete --format %w%f $DAT|
 while read files;do
+
     touch image_up ;
+    echo "--------------------------------"
+    date +"%y/%m/%d %T";
+    echo "--------------------------------"
+
 done
