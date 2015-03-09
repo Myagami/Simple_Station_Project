@@ -14,7 +14,7 @@ done
 pak_cp(){
     local num=$#
     local arg=$*
-
+    echo $num
     for i in $arg
     do
 	echo $arg
