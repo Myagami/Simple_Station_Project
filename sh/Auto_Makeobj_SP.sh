@@ -1,6 +1,6 @@
 #!/bin/sh
-PAK=$1
-DAT=$2
+//PAK=$1
+DAT=$1
 PNG="png/image_up"
 ## png / datをモニターする
 inotifywait -m -e modify,create,delete --format %w%f $PNG $DAT|
