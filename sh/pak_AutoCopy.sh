@@ -5,18 +5,7 @@
 inotifywait -m -e modify,create,delete --format %w%f "./"
 while read files;do
     #cp * ~/simutrans/addons/pak.nippon.test/
-    pak_cp "*.pak"
     #echo "--------------------------------"
     #date +"%y/%m/%d %T";
     #echo "--------------------------------"
 done
-
-pak_cp(){
-    local num=$#
-    local arg=$*
-    echo $num
-    for i in $arg
-    do
-	echo $arg
-    done
-}
