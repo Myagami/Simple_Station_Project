@@ -2,7 +2,7 @@
 #PAK=$1
 ## png / datをモニターする
 #inotifywait -m -e modify,create,delete --format %w%f "./" |
-inotifywait -m CLOSE_NOWRITE --format %w%f "./" |
+inotifywait -m close_nowrite --format %w%f "./" |
 #inotifywait -m -e modify,create,delete --format %w%f $DAT|
 while read files;do
 
