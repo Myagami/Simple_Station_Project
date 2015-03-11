@@ -3,7 +3,7 @@
 DAT="./"
 PNG="png/image_up"
 ## png / datをモニターする
-inotifywait -m -e modify,create,delete,attrib --format %w%f $PNG $DAT|
+inotifywait -m -e modify,create,attrib --format %w%f $PNG $DAT|
 #inotifywait -m -e modify,create,delete --format %w%f $DAT|
 while read files;do
     makeobj_54 pak ../pak/ ./ ;
