@@ -1,4 +1,4 @@
 #!/bin/sh
 NAME=$1
-sed -e "s/S_Name/$NAME/gi" Simple_Station_Sample.dat > Simple_Station_$NAME.dat
+sed -e "s/S_Name/$NAME/gi" ../common/Simple_Station_Base.dat > Simple_Station_$NAME.dat
 
