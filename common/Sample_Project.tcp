@@ -15,10 +15,10 @@
             "z": 1
         }, 
         "files": {
-            "datfile_location": "../source/output.dat", 
+            "datfile_location": "../source/Simple_Station_S_name.dat", 
             "datfile_write": true, 
             "pakfile_location": "", 
-            "pngfile_location": "../source/png/output.png"
+            "pngfile_location": "../source/png/Simple_Station_S_name.png"
         }, 
         "images": [
             [
@@ -29,7 +29,7 @@
                                 0, 
                                 0
                             ], 
-                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/png/Simple_Station_Edge-1.png"
+                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/png/Simple_Station_S_name.png"
                         }, 
                         {
                             "offset": [
@@ -67,7 +67,7 @@
                                 64, 
                                 0
                             ], 
-                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/png/Simple_Station_Edge-1.png"
+                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/png/Simple_Station_S_name.png"
                         }, 
                         {
                             "offset": [
@@ -143,7 +143,7 @@
                                 192, 
                                 0
                             ], 
-                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/png/Simple_Station_Edge-1.png"
+                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/png/Simple_Station_S_name.png"
                         }, 
                         {
                             "offset": [
