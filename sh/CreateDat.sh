@@ -6,7 +6,7 @@ NAME=$2
 while getopts ms: opt
 do
     case $opt in
-	"m")echo "multi\n"; sed -e "s/S_Name/$NAME/gi" ../common/Sample_Project.tcp > Simple_Station_$NAME.tcp ;;
+	"m")echo "multi\n"; sed -e "s/S_Name/$NAME/gi" ../common/Simple_Station_Base.tcp > Simple_Station_$NAME.tcp ;;
 	#"m") echo "$NAME\n" ;;
 	"s") echo "single\n" ;sed -e "s/S_Name/$NAME/gi" ../common/Simple_Station_Base.dat > Simple_Station_$NAME.dat ;;
 	#"s") echo "single\n" ;;
