@@ -8,9 +8,9 @@ while getopts mt: opt
 do
     case $opt in
 	#"m") sed -e "s/S_Name/$NAME/gi" ../common/Simple_Project.tcp > Simple_Station_$NAME.tcp ;;
-	#"m") echo "multi\n" ;;
+	"m") echo "multi\n" ;;
 	#"s") sed -e "s/S_Name/$NAME/gi" ../common/Simple_Station_Base.dat > Simple_Station_$NAME.dat ;;
-	#"s") echo "single\n" ;;
+	"s") echo "single\n" ;;
     esac
 done
 
