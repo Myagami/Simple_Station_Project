@@ -18,7 +18,7 @@
             "datfile_location": "Subway_Station_Gateway_H1.dat", 
             "datfile_write": true, 
             "pakfile_location": "", 
-            "pngfile_location": "Subway_Station_Gateway_H1_Source.png"
+            "pngfile_location": "../source/png/Subway_Station_Gateway_H1_Source.png"
         }, 
         "images": [
             [
