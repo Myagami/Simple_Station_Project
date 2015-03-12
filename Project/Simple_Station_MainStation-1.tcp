@@ -27,7 +27,7 @@
                         {
                             "offset": [
                                 0, 
-                                128
+                                0
                             ], 
                             "path": "../source/n_png/Simple_Station_MainStation-1.png"
                         }, 
@@ -64,10 +64,10 @@
                     [
                         {
                             "offset": [
-                                64, 
+                                128, 
                                 0
                             ], 
-                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/png/Simple_Station_MainStation-1.png"
+                            "path": "../source/n_png/Simple_Station_MainStation-1.png"
                         }, 
                         {
                             "offset": [
