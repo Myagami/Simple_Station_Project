@@ -1,7 +1,15 @@
 #!/bin/sh
 # Option
 # -m マルチタイルアドオン作成 → プロジェクトデータ発行
-#
+# -s シングルタイルアドオン作成 → dat出力
+
+while getopts m: opt 
+do
+    case $opt in
+	
+
+    esac
+done
 
 
 NAME=$1
