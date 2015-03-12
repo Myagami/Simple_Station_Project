@@ -15,10 +15,10 @@
             "z": 1
         }, 
         "files": {
-            "datfile_location": "../source/output.dat", 
+            "datfile_location": "../source/S_Name.dat", 
             "datfile_write": true, 
             "pakfile_location": "", 
-            "pngfile_location": "../source/png/output.png"
+            "pngfile_location": "../source/png/S_Name.png"
         }, 
         "images": [
             [
