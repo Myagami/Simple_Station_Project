@@ -3,7 +3,7 @@
 # -m マルチタイルアドオン作成 → プロジェクトデータ発行
 # -s シングルタイルアドオン作成 → dat出力
 
-while getopts m: opt 
+while getopts mt: opt 
 do
     case $opt in
 	
