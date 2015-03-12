@@ -15,10 +15,10 @@
             "z": 1
         }, 
         "files": {
-            "datfile_location": "output.dat", 
+            "datfile_location": "../source/output.dat", 
             "datfile_write": true, 
             "pakfile_location": "", 
-            "pngfile_location": "images/output.png"
+            "pngfile_location": "../source/png/output.png"
         }, 
         "images": [
             [
@@ -102,10 +102,10 @@
                     [
                         {
                             "offset": [
-                                128, 
+                                0, 
                                 0
                             ], 
-                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/png/Simple_Station_Edge-1.png"
+                            "path": "../source/n_png/Subway_Station_Gateway_H2s.png"
                         }, 
                         {
                             "offset": [
