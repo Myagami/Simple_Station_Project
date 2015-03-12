@@ -2,7 +2,7 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "Obj=building\nName=Simple_Station_MainStation-1\nType=extension\nWaytype=track\nenables_pax=1\nLevel=5\nNoInfo=1\nenables_pax=1\nicon=> ./png/Simple_Station_Icon.0.0\n"
+            "dat_lump": "Obj=building\nName=Simple_Station_S_Name\nType=extension\nWaytype=track\nenables_pax=1\nLevel=5\nNoInfo=1\nenables_pax=1\nicon=> ./png/Simple_Station_Icon.0.0\n"
         }, 
         "dims": {
             "directions": 4, 
@@ -15,10 +15,10 @@
             "z": 1
         }, 
         "files": {
-            "datfile_location": "../source/Simple_Station_MainStation-1.dat", 
+            "datfile_location": "../source/Simple_Station_S_Name.dat", 
             "datfile_write": true, 
             "pakfile_location": "", 
-            "pngfile_location": "../source/png/Simple_Station_MainStation-1.png"
+            "pngfile_location": "../source/png/Simple_Station_S_Name.png"
         }, 
         "images": [
             [
@@ -29,7 +29,7 @@
                                 0, 
                                 128
                             ], 
-                            "path": "../source/n_png/Simple_Station_MainStation-1.png"
+                            "path": "../source/n_png/Simple_Station_S_Name.png"
                         }, 
                         {
                             "offset": [
@@ -67,7 +67,7 @@
                                 128, 
                                 128
                             ], 
-                            "path": "../source/n_png/Simple_Station_MainStation-1.png"
+                            "path": "../source/n_png/Simple_Station_S_Name.png"
                         }, 
                         {
                             "offset": [
@@ -105,7 +105,7 @@
                                 0, 
                                 0
                             ], 
-                            "path": "../source/n_png/Simple_Station_MainStation-1.png"
+                            "path": "../source/n_png/Simple_Station_S_Name.png"
                         }, 
                         {
                             "offset": [
@@ -143,7 +143,7 @@
                                 128, 
                                 0
                             ], 
-                            "path": "../source/n_png/Simple_Station_MainStation-1.png"
+                            "path": "../source/n_png/Simple_Station_S_Name.png"
                         }, 
                         {
                             "offset": [
