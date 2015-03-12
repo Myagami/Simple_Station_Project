@@ -7,7 +7,6 @@ Level=5
 NoInfo=1
 enables_pax=1
 icon=> ./png/Simple_Station_Icon.0.0
-
 dims=3,1,4
 BackImage[0][0][0][0][0][0]=png/Simple_Station_MainStation-1.0.0
 BackImage[0][0][1][0][0][0]=png/Simple_Station_MainStation-1.0.1
