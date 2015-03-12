@@ -11,7 +11,7 @@
             "paksize": 64, 
             "winter": 0, 
             "x": 1, 
-            "y": 1, 
+            "y": 3, 
             "z": 1
         }, 
         "files": {
@@ -27,9 +27,9 @@
                         {
                             "offset": [
                                 0, 
-                                0
+                                128
                             ], 
-                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/png/Simple_Station_MainStation-1.png"
+                            "path": "../source/n_png/Simple_Station_MainStation-1.png"
                         }, 
                         {
                             "offset": [
