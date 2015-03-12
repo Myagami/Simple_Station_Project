@@ -4,7 +4,7 @@
 # -s シングルタイルアドオン作成 → dat出力
 NAME=$1
 
-while getopts mt: opt 
+while getopts ms: opt 
 do
     case $opt in
 	"m")echo "multi\n"; sed -e "s/S_Name/$NAME/gi" ../common/Simple_Project.tcp > Simple_Station_$NAME.tcp ;;
