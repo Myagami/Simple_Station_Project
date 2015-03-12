@@ -7,10 +7,9 @@ NAME=$1
 while getopts mt: opt 
 do
     case $opt in
-	"m");;
-	"s") sed -e "s/S_Name/$NAME/gi" ../common/Simple_Station_Base.dat > Simple_Station_$NAME.dat
- ;;
-
+	"m") echo "multi" ;;
+	#"s") sed -e "s/S_Name/$NAME/gi" ../common/Simple_Station_Base.dat > Simple_Station_$NAME.dat ;;
+	"s") echo "single\n" ;;
     esac
 done
 
