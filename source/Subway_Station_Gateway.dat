@@ -38,7 +38,7 @@ dims=1,1,1
 BackImage[0][0][0][0][0][0]=./png/Subway_Station_Gateway_TimeTower.0.0
 icon=> ./png/Subway_Station_Gateway_Icon.0.4
 ------------------------------------
-Obj=building
+#Obj=building
 Name=Subway_Station_Gateway_H1
 Type=extension
 copyright=M.Yagami
