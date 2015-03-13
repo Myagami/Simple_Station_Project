@@ -92,7 +92,6 @@ Waytype=track
 Level=3
 NoInfo=1
 icon=> ./png/Subway_Station_Gateway_Icon.0.6
-dims=1,2,2
 dims=1,2,4
 BackImage[0][0][0][0][0][0]=png/Subway_Station_Gateway_H2_Source.0.0
 BackImage[0][1][0][0][0][0]=png/Subway_Station_Gateway_H2_Source.0.1
