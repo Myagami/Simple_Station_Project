@@ -27,7 +27,7 @@
                         {
                             "offset": [
                                 0, 
-                                0
+                                128
                             ], 
                             "path": "../source/n_png/Simple_Station_MainStation-1.png"
                         }, 
@@ -65,7 +65,7 @@
                         {
                             "offset": [
                                 128, 
-                                0
+                                128
                             ], 
                             "path": "../source/n_png/Simple_Station_MainStation-1.png"
                         }, 
@@ -102,8 +102,8 @@
                     [
                         {
                             "offset": [
-                                160, 
-                                80
+                                0, 
+                                0
                             ], 
                             "path": "../source/n_png/Simple_Station_MainStation-1.png"
                         }, 
