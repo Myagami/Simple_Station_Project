@@ -10,8 +10,8 @@
             "frontimage": 0, 
             "paksize": 64, 
             "winter": 0, 
-            "x": 2, 
-            "y": 1, 
+            "x": 1, 
+            "y": 2, 
             "z": 1
         }, 
         "files": {
@@ -26,10 +26,10 @@
                     [
                         {
                             "offset": [
-                                0, 
-                                96
+                                32, 
+                                128
                             ], 
-                            "path": "../source/n_png/Subway_Station_Gateway_H1.png"
+                            "path": "../source/n_png/Subway_Station_Gateway_H1_.png"
                         }, 
                         {
                             "offset": [
@@ -64,10 +64,10 @@
                     [
                         {
                             "offset": [
-                                97, 
-                                96
+                                131, 
+                                128
                             ], 
-                            "path": "../source/n_png/Subway_Station_Gateway_H1.png"
+                            "path": "../source/n_png/Subway_Station_Gateway_H1_.png"
                         }, 
                         {
                             "offset": [
@@ -102,10 +102,10 @@
                     [
                         {
                             "offset": [
-                                0, 
+                                32, 
                                 0
                             ], 
-                            "path": "../source/n_png/Subway_Station_Gateway_H1.png"
+                            "path": "../source/n_png/Subway_Station_Gateway_H1_.png"
                         }, 
                         {
                             "offset": [
@@ -140,10 +140,10 @@
                     [
                         {
                             "offset": [
-                                97, 
+                                129, 
                                 0
                             ], 
-                            "path": "../source/n_png/Subway_Station_Gateway_H1.png"
+                            "path": "../source/n_png/Subway_Station_Gateway_H1_.png"
                         }, 
                         {
                             "offset": [
