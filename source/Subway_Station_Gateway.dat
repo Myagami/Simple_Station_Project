@@ -83,7 +83,7 @@ BackImage[2][0][0][0][0][0]=./png/Subway_Station_Gateway_ST_Default.1.0
 BackImage[3][0][0][0][0][0]=./png/Subway_Station_Gateway_ST_Default.1.1
 icon=> ./png/Subway_Station_Gateway_Icon.0.5
 ------------------------------------
-#Obj=building
+Obj=building
 Name=Subway_Station_Gateway_H2
 Type=extension
 copyright=M.Yagami
