@@ -1,0 +1,18 @@
+Obj=building
+Name=Subway_Station_Gateway_Ws
+Type=extension
+enables_pax=1
+Waytype=track
+Level=3
+NoInfo=1
+icon=> Subway_Station_Gateway_Icon.0.3
+
+dims=2,1,4
+BackImage[0][0][0][0][0][0]=../source/png/Subway_Station_Gateway_W1_Source.0.0
+BackImage[0][0][1][0][0][0]=../source/png/Subway_Station_Gateway_W1_Source.0.1
+BackImage[1][0][0][0][0][0]=../source/png/Subway_Station_Gateway_W1_Source.0.2
+BackImage[1][1][0][0][0][0]=../source/png/Subway_Station_Gateway_W1_Source.1.0
+BackImage[2][0][0][0][0][0]=../source/png/Subway_Station_Gateway_W1_Source.1.1
+BackImage[2][0][1][0][0][0]=../source/png/Subway_Station_Gateway_W1_Source.1.2
+BackImage[3][0][0][0][0][0]=../source/png/Subway_Station_Gateway_W1_Source.2.0
+BackImage[3][1][0][0][0][0]=../source/png/Subway_Station_Gateway_W1_Source.2.1
