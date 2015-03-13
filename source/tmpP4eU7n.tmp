@@ -1,0 +1,17 @@
+Obj=building
+Name=Subway_Station_Gateway_H1
+Type=extension
+enables_pax=1
+Waytype=track
+Level=3
+NoInfo=1
+icon=> ./png/Subway_Station_Gateway_Icon.0.1
+dims=1,2,4
+BackImage[0][0][0][0][0][0]=png/Subway_Station_Gateway_H1_Source.0.0
+BackImage[0][1][0][0][0][0]=png/Subway_Station_Gateway_H1_Source.0.1
+BackImage[1][0][0][0][0][0]=png/Subway_Station_Gateway_H1_Source.0.2
+BackImage[1][0][1][0][0][0]=png/Subway_Station_Gateway_H1_Source.1.0
+BackImage[2][0][0][0][0][0]=png/Subway_Station_Gateway_H1_Source.1.1
+BackImage[2][1][0][0][0][0]=png/Subway_Station_Gateway_H1_Source.1.2
+BackImage[3][0][0][0][0][0]=png/Subway_Station_Gateway_H1_Source.2.0
+BackImage[3][0][1][0][0][0]=png/Subway_Station_Gateway_H1_Source.2.1
