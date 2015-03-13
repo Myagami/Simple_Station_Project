@@ -2,7 +2,7 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "Obj=building\nName=Subway_Station_Gateway_H2\nType=extension\nenables_pax=1\nWaytype=track\nLevel=3\nNoInfo=1\nicon=> Subway_Station_Gateway_Icon.0.1"
+            "dat_lump": "Obj=building\nName=Subway_Station_Gateway_H1\nType=extension\nenables_pax=1\nWaytype=track\nLevel=3\nNoInfo=1\nicon=> Subway_Station_Gateway_Icon.0.1"
         }, 
         "dims": {
             "directions": 2, 
@@ -15,10 +15,10 @@
             "z": 1
         }, 
         "files": {
-            "datfile_location": "Subway_Station_Gateway_H2.dat", 
+            "datfile_location": "Subway_Station_Gateway_H1.dat", 
             "datfile_write": true, 
             "pakfile_location": "", 
-            "pngfile_location": "../source/png/Subway_Station_Gateway_H2_Source.png"
+            "pngfile_location": "../source/png/Subway_Station_Gateway_H1_Source.png"
         }, 
         "images": [
             [
@@ -29,7 +29,7 @@
                                 0, 
                                 0
                             ], 
-                            "path": "../source/n_png/Subway_Station_Gateway_H2s.png"
+                            "path": "../source/n_png/Subway_Station_Gateway_H1.png"
                         }, 
                         {
                             "offset": [
@@ -67,7 +67,7 @@
                                 0, 
                                 0
                             ], 
-                            "path": "../source/n_png/Subway_Station_Gateway_H2e.png"
+                            "path": "../source/n_png/Subway_Station_Gateway_H1.png"
                         }, 
                         {
                             "offset": [
