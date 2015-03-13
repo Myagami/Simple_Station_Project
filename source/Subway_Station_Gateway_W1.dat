@@ -1,11 +1,12 @@
 Obj=building
-Name=Subway_Station_Gateway_Ws
+Name=Subway_Station_Gateway_W1
 Type=extension
 enables_pax=1
 Waytype=track
 Level=3
 NoInfo=1
 icon=> ./png/Subway_Station_Gateway_Icon.0.3
+
 dims=2,1,4
 BackImage[0][0][0][0][0][0]=png/Subway_Station_Gateway_W1_Source.0.0
 BackImage[0][0][1][0][0][0]=png/Subway_Station_Gateway_W1_Source.0.1
