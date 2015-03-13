@@ -38,21 +38,6 @@ dims=1,1,1
 BackImage[0][0][0][0][0][0]=./png/Subway_Station_Gateway_TimeTower.0.0
 icon=> ./png/Subway_Station_Gateway_Icon.0.4
 ------------------------------------
-#Obj=building
-Name=Subway_Station_Gateway_H1
-Type=extension
-copyright=M.Yagami
-enables_pax=1
-Waytype=track
-Level=3
-NoInfo=1
-icon=> ./png/Subway_Station_Gateway_Icon.0.1
-dims=1,2,2
-BackImage[0][0][0][0][0][0]=./png/Subway_Station_Gateway_H1_Source.0.0
-BackImage[0][1][0][0][0][0]=./png/Subway_Station_Gateway_H1_Source.0.1
-BackImage[1][0][0][0][0][0]=./png/Subway_Station_Gateway_H1_Source.1.0
-BackImage[1][0][1][0][0][0]=./png/Subway_Station_Gateway_H1_Source.1.1
-------------------------------------
 Obj=building
 Name=Subway_Station_Gateway_W1
 Type=extension
@@ -82,21 +67,6 @@ BackImage[1][0][0][0][0][0]=./png/Subway_Station_Gateway_ST_Default.0.1
 BackImage[2][0][0][0][0][0]=./png/Subway_Station_Gateway_ST_Default.1.0
 BackImage[3][0][0][0][0][0]=./png/Subway_Station_Gateway_ST_Default.1.1
 icon=> ./png/Subway_Station_Gateway_Icon.0.5
-------------------------------------
-#Obj=building
-Name=Subway_Station_Gateway_H2
-Type=extension
-copyright=M.Yagami
-enables_pax=1
-Waytype=track
-Level=3
-NoInfo=1
-icon=> ./png/Subway_Station_Gateway_Icon.0.6
-dims=1,2,2
-BackImage[0][0][0][0][0][0]=./png/Subway_Station_Gateway_H2_Source.0.0
-BackImage[0][1][0][0][0][0]=./png/Subway_Station_Gateway_H2_Source.0.1
-BackImage[1][0][0][0][0][0]=./png/Subway_Station_Gateway_H2_Source.1.0
-BackImage[1][0][1][0][0][0]=./png/Subway_Station_Gateway_H2_Source.1.1
 ------------------------------------
 Obj=building
 Name=Subway_Station_Gateway_Single_S-EV
