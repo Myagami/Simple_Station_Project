@@ -77,10 +77,6 @@ Waytype=track
 Level=5
 NoInfo=1
 dims=1,1,4
-BackImage[0][0][0][0][0][0]=./png/Subway_Station_Gateway_ST_Default.0.0
-BackImage[1][0][0][0][0][0]=./png/Subway_Station_Gateway_ST_Default.0.1
-BackImage[2][0][0][0][0][0]=./png/Subway_Station_Gateway_ST_Default.1.0
-BackImage[3][0][0][0][0][0]=./png/Subway_Station_Gateway_ST_Default.1.1
 icon=> ./png/Subway_Station_Gateway_Icon.0.5
 ------------------------------------
 #Obj=building
