@@ -2,7 +2,7 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "Obj=building\nName=Subway_Station_Gateway_H2\nType=extension\nenables_pax=1\nWaytype=track\nLevel=3\nNoInfo=1\nicon=> ./png/Subway_Station_Gateway_Icon.0.1"
+            "dat_lump": "Obj=building\nName=Subway_Station_Gateway_H1\nType=extension\nenables_pax=1\nWaytype=track\nLevel=3\nNoInfo=1\nicon=> ./png/Subway_Station_Gateway_Icon.0.1"
         }, 
         "dims": {
             "directions": 4, 
