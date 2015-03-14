@@ -1,0 +1,180 @@
+{
+    "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
+    "data": {
+        "dat": {
+            "dat_lump": "Obj=building\nName=test_1\nType=cur\nPassengers=100\nintro_year=1900\nchance=100"
+        }, 
+        "dims": {
+            "directions": 4, 
+            "frames": 1, 
+            "frontimage": 0, 
+            "paksize": 64, 
+            "winter": 0, 
+            "x": 1, 
+            "y": 3, 
+            "z": 1
+        }, 
+        "files": {
+            "datfile_location": "output.dat", 
+            "datfile_write": true, 
+            "pakfile_location": "", 
+            "pngfile_location": "images/output.png"
+        }, 
+        "images": [
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                128
+                            ], 
+                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/n_png/Simple_Station_Mon-1.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                128, 
+                                128
+                            ], 
+                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/n_png/Simple_Station_Mon-1.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/n_png/Simple_Station_Mon-1.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                128, 
+                                0
+                            ], 
+                            "path": "Dropbox/Simutrans/make/Rail_Tool/Simple_Station_Set/source/n_png/Simple_Station_Mon-1.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ]
+        ]
+    }, 
+    "type": "TCP_JSON", 
+    "version": "0.6.1"
+}
