@@ -1,5 +1,5 @@
 Obj=building
-Name=Tower1
+Name=Simple_Station_Tower1
 Type=extension
 Waytype=track
 enables_pax=1
