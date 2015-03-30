@@ -29,7 +29,6 @@ $inotify->watch(
 		print "Can't Running Makeobj\n" ;
 	    }
 	}
-	print "------------\n" ;
     }
 );
 #png
