@@ -113,32 +113,32 @@ sub make_run{#makeobj
 	chomp($buff) ;
 	if($buff =~ /Makeobj version (.*) for Simutrans (.*) and higher/){#バージョン
 	    print "Makeobj Version:".$1."\n" ;
-	print "Support Main:".$2."\n" ;
-    }elsif($buff =~ /writing invidual files to (.*)/){#書き込み先
-	print "Write File path:".$1."\n" ;
-    }elsif($buff =~ /   writing file (.*)/){
-	print "Write File to:".$1."\n" ;
-    }elsif($buff =~ /writing file (.*)/){
-	print "Write File to:".$1."\n" ;
-    }elsif($buff =~ /WARNING: (.*)$/){#危険
-	print "Warning:".$1."\n" ;
-    }elsif($buff =~ /reading file (.*)$/){#危険
-	print "Read From:".$1."\n" ;
-    }elsif($buff =~ /packing (.*)$/){#危険
-	print "Packd Data:".$1."\n" ;
-    }elsif($buff =~ /Error:: (.*)$/){#危険
-	print "Error:".$1."-\n" ;
-    }elsif($buff =~ /ERROR IN CLASS (.*): cannot open (.*)/){#危険
-	print "ErrorClass:${1} - Can't open ${2}\n" ;
-    }
-    
-    #--------------------
+	    print "Support Main:".$2."\n" ;
+	}elsif($buff =~ /writing invidual files to (.*)/){#書き込み先
+	    print "Write File path:".$1."\n" ;
+	}elsif($buff =~ /   writing file (.*)/){
+	    print "Write File to:".$1."\n" ;
+	}elsif($buff =~ /writing file (.*)/){
+	    print "Write File to:".$1."\n" ;
+	}elsif($buff =~ /WARNING: (.*)$/){#危険
+	    print "Warning:".$1."\n" ;
+	}elsif($buff =~ /reading file (.*)$/){#危険
+	    print "Read From:".$1."\n" ;
+	}elsif($buff =~ /packing (.*)$/){#危険
+	    print "Packd Data:".$1."\n" ;
+	}elsif($buff =~ /Error:: (.*)$/){#危険
+	    print "Error:".$1."-\n" ;
+	}elsif($buff =~ /ERROR IN CLASS (.*): cannot open (.*)/){#危険
+	    print "ErrorClass:${1} - Can't open ${2}\n" ;
+	}
+	
+	#--------------------
 
 #system("makeobj_54 pak ../pak/ ${fn}") ;
-    #system("makeobj_54 pak /home/hayate/simutrans/addons/pak.nippon.test/ ${fn}") ;
-    #print "paking:".$fn."\n" ;
+	#system("makeobj_54 pak /home/hayate/simutrans/addons/pak.nippon.test/ ${fn}") ;
+	#print "paking:".$fn."\n" ;
 
-}
+    }
 
 sub png_to_dat{#pngをdatに / datをpngに変換
     my $fn = shift ;
