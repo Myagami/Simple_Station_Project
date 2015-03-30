@@ -118,8 +118,6 @@ sub make_run{#makeobj
 	    print "Write File path:".$1."\n" ;
 	}elsif($buff =~ /   writing file (.*)/){
 	    print "Write File to :".$1."\n" ;
-	}elsif($buff =~ /   writing file (.*)/){
-	    print "Write File to :".$1."\n" ;
 	}elsif($buff =~ /WARNING: (.*)$/){#危険
 	    print "Warning:".$1."\n" ;
 	}elsif($buff =~ /reading file (.*)$/){#危険
