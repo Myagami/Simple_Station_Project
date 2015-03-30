@@ -104,7 +104,7 @@ sub make_run{#makeobj
 	$fn = png_to_dat($fn) ;
     }
     print $fn."\n" ;
-    open my $fh_r, 'makeobj_54 pak ../pak/ ${fn} 2>&1|';
+    open my $fh_r, 'makeobj_54 pak ../pak/ ./${fn} 2>&1|';
     print "-"x15 ;
     print "\n" ;
     my ($sec, $min, $hour, $mday, $mon, $year, $wday, $yday, $isdst) = localtime(time);  
