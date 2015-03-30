@@ -46,6 +46,7 @@ $inotify->watch(
 	    my $res = exist_file($p_name) ;
 	    if($res ==1){
 		#print $res."\n" ;
+		print "${p_name}\n" ;
 		make_run($p_name) ;
 	    }else{
 		print "Can't Running Makeobj\n" ;
