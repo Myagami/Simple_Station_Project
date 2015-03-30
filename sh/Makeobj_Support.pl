@@ -132,6 +132,8 @@ sub make_run{#makeobj
 	    print "ErrorClass:${1} - Can't open ${2}\n" ;
 	}
     }
+    
+    #--------------------
     system("makeobj_54 pak ../pak/ ${fn}") ;
     system("makeobj_54 pak /home/hayate/simutrans/addons/pak.nippon.test/ ${fn}") ;
     #print "paking:".$fn."\n" ;
