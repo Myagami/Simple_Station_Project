@@ -103,7 +103,7 @@ sub make_run{#makeobj
     if($fn =~ /.*png$/){#pngならdatに変える
 	$fn = png_to_dat($fn) ;
     }
-
+    print $fn."\n" ;
     open my $fh_r, 'makeobj_54 pak ../pak/ ${fn} 2>&1|';
     print "-"x15 ;
     print "\n" ;
