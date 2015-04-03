@@ -1,0 +1,16 @@
+#Obj=building
+Name=Simple_Station_Bridge-1
+Type=extension
+Waytype=track
+enables_pax=1
+Level=5
+NoInfo=1
+Dims=1,1,4
+enables_pax=1
+BackImage[0][0][0][0][0][0]=./png/Simple_Station_Bridge-1.0.0
+BackImage[1][0][0][0][0][0]=./png/Simple_Station_Bridge-1.0.1
+BackImage[2][0][0][0][0][0]=./png/Simple_Station_Bridge-1.0.2
+BackImage[3][0][0][0][0][0]=./png/Simple_Station_Bridge-1.0.3
+icon=> ./png/Simple_Station_Bridge-1.0.4
+copyright=M.Yagami
+----------------------------

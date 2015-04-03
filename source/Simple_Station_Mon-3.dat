@@ -1,0 +1,19 @@
+Obj=building
+Name=Simple_Station_Mon-3
+Type=extension
+Waytype=track
+enables_pax=1
+Level=5
+NoInfo=1
+enables_pax=1
+icon=> ./png/Simple_Station_Icon.0.3
+
+dims=2,1,4
+BackImage[0][0][0][0][0][0]=png/Simple_Station_Mon-3.0.0
+BackImage[0][0][1][0][0][0]=png/Simple_Station_Mon-3.0.1
+BackImage[1][0][0][0][0][0]=png/Simple_Station_Mon-3.0.2
+BackImage[1][1][0][0][0][0]=png/Simple_Station_Mon-3.1.0
+BackImage[2][0][0][0][0][0]=png/Simple_Station_Mon-3.1.1
+BackImage[2][0][1][0][0][0]=png/Simple_Station_Mon-3.1.2
+BackImage[3][0][0][0][0][0]=png/Simple_Station_Mon-3.2.0
+BackImage[3][1][0][0][0][0]=png/Simple_Station_Mon-3.2.1
